@@ -1,4 +1,4 @@
-# Hola, soy Miguel Del Pino
+# Hola, soy Miguel Del Pino (Michael)
 
 Desarrollador de Aplicaciones Multiplataforma (DAM)  
 Junior Full Stack Developer  
