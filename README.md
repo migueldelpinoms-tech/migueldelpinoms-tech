@@ -6,6 +6,8 @@ Madrid, España
 
 Apasionado por el desarrollo de software y la creación de soluciones digitales modernas.
 
+Me interesa especialmente el desarrollo de aplicaciones multiplataforma, el ecosistema móvil y el desarrollo web moderno.
+
 ---
 
 ## Tecnologías y herramientas
