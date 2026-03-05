@@ -6,8 +6,6 @@ Madrid, España
 
 Apasionado por el desarrollo de software y la creación de soluciones digitales modernas.
 
-Actualmente estoy buscando mi **primera oportunidad profesional como desarrollador** para seguir creciendo y aportar valor a proyectos tecnológicos.
-
 ---
 
 ## Tecnologías y herramientas
