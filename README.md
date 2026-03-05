@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hola, soy Miguel Del Pino
 
-<!--
-**migueldelpinoms-tech/migueldelpinoms-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de Aplicaciones Multiplataforma (DAM)  
+Junior Full Stack Developer  
+Madrid, España  
 
-Here are some ideas to get you started:
+Apasionado por el desarrollo de software y la creación de soluciones digitales modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy buscando mi **primera oportunidad profesional como desarrollador** para seguir creciendo y aportar valor a proyectos tecnológicos.
+
+---
+
+## Tecnologías y herramientas
+
+### Mobile
+- Kotlin
+- Android Studio
+- MVVM Architecture
+
+### Backend
+- Java
+- Python
+- SQL / MySQL
+
+### Web
+- HTML
+- CSS
+- JavaScript
+- Astro
+- TailwindCSS
+
+### Herramientas
+- Git / GitHub
+- Postman
+- JUnit
+- APIs REST
+
+---
+
+## Portfolio
+
+Puedes ver mi portfolio aquí:
+
+👉 https://migueldelpino.netlify.app
+
+---
+
+## Contacto
+
+- LinkedIn  
+  https://linkedin.com/in/miguel-del-pino-ms
+
+- Portfolio  
+  https://migueldelpino.netlify.app
+
+- Email  
+  migueldelpinoms@gmail.com
+
+---
+
+## GitHub Stats
+
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migueldelpinoms-tech&show_icons=true&theme=github_dark)
+
+---
+
+Siempre aprendiendo nuevas tecnologías y mejorando como desarrollador.
