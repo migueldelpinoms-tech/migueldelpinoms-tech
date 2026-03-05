@@ -1,35 +1,35 @@
-# 👋 Hola, soy Miguel Del Pino
+# Hola, soy Miguel Del Pino
 
-💻 Desarrollador de Aplicaciones Multiplataforma (DAM)  
-🚀 Junior Full Stack Developer  
-📍 Madrid, España  
+Desarrollador de Aplicaciones Multiplataforma (DAM)  
+Junior Full Stack Developer  
+Madrid, España  
 
 Apasionado por el desarrollo de software y la creación de aplicaciones multiplataforma.
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 Kotlin • Java • Python • SQL • HTML • CSS • JavaScript • Astro • Tailwind • Git
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 👉 https://migueldelpino.netlify.app
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-💼 LinkedIn  
+LinkedIn  
 https://linkedin.com/in/miguel-del-pino-ms
 
-📧 Email  
+Email  
 migueldelpinoms@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=migueldelpinoms-tech&show_icons=true&theme=github_dark)
